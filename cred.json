@@ -1,0 +1,9 @@
+{
+	"username": "cn=admin,dc=example,dc=com",
+	"pass": "JhonSnow",
+	"host1": "172.17.0.2",
+	"port1": "389",
+	"host2": "172.17.0.3",
+	"port2": "389",
+	"basedn": "dc=example,dc=com"
+}
